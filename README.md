@@ -1,3 +1,8 @@
+<p align="right">
+  <strong>English</strong> |
+  <a href="README_TR.md">Türkçe</a>
+</p>
+
 # TurkCAD Web CAD Studio
 
 <p align="center">
@@ -20,12 +25,13 @@
 
 ## About
 
-***TurkCAD*** is a browser-based 2D CAD application designed for technical drawing, lightweight drafting, DXF inspection, dimensioning and common editing workflows.
+*TurkCAD* is a browser-based 2D CAD application designed for technical drawing, lightweight drafting, DXF inspection, dimensioning and common editing workflows.
 
 The project is currently under active development and is in the alpha stage.
 
-The public source code release is coming soon.
-This repository currently contains project information and licensing details.
+***The public source code release is coming soon.
+This repository currently contains project information and licensing details.***
+
 ---
 
 ## Features
@@ -47,9 +53,9 @@ This repository currently contains project information and licensing details.
 
 ## Screenshot
 
-![TurkCAD screenshot](assets/images/screenshot1.jpg)
+![TurkCAD screenshot](assets/images/screenshot.jpeg)
 ![TurkCAD screenshot](assets/images/screenshot2.jpg)
-![TurkCAD screenshot](assets/images/screenshot3.jpg)
+![TurkCAD screenshot](assets/images/screenshot3.jpeg)
 
 ---
 
