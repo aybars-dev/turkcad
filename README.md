@@ -1,6 +1,6 @@
 <p align="right">
   <strong>English</strong> |
-  <a href="README_TR.md">Türkçe</a>
+  <a href="README_tr.md">Türkçe</a>
 </p>
 
 # TurkCAD Web CAD Studio
