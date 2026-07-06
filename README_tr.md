@@ -53,11 +53,11 @@ Bu depo şimdilik proje bilgilerini ve lisans ayrıntılarını içermektedir.
 
 ## Ekran Görüntüleri
 
-![TurkCAD çizim çalışma alanı](assets/images/screenshot1.jpg)
+![TurkCAD teknik çizim örneği 1](assets/images/screenshot.jpeg)
 
-![TurkCAD katman ve özellikler arayüzü](assets/images/screenshot2.jpg)
+![TurkCAD teknik çizim örneği 2](assets/images/screenshot2.jpg)
 
-![TurkCAD teknik çizim örneği](assets/images/screenshot3.jpg)
+![TurkCAD teknik çizim örneği 3](assets/images/screenshot3.jpeg)
 
 ---
 
