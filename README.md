@@ -23,6 +23,16 @@
 
 ---
 
+## Live Demo
+
+Try TurkCAD directly in your browser — no installation or account required.
+
+### [Launch TurkCAD →](https://turkcad.online)
+
+> TurkCAD is currently in alpha. Desktop browsers are recommended for the best experience.
+
+---
+
 ## About
 
 *TurkCAD* is a browser-based 2D CAD application designed for technical drawing, lightweight drafting, DXF inspection, dimensioning and common editing workflows.
@@ -51,11 +61,19 @@ This repository currently contains project information and licensing details.***
 
 ---
 
-## Screenshot
+## Screenshots
 
-![TurkCAD screenshot](assets/images/screenshot.jpeg)
-![TurkCAD screenshot](assets/images/screenshot2.jpg)
-![TurkCAD screenshot](assets/images/screenshot3.jpeg)
+Architectural Floor Plans
+
+![Intuitive drafting tools for precise architectural layouts.](assets/images/screenshot.jpeg)
+
+2D Technical Exercises
+
+![Practice and create technical drawings with precision.](assets/images/screenshot2.jpg)
+
+Reference-based Drafting
+
+![Import references and draft with accuracy and ease.](assets/images/screenshot3.jpeg)
 
 ---
 
@@ -177,14 +195,6 @@ TurkCAD supports CAD-style typed commands and aliases. Enter a command in the co
 | `Tab` | Selects the highlighted command suggestion. |
 
 </details>
-
----
-
-## Live Demo
-
-A public demonstration version will be available at:
-
-https://turkcad.online
 
 ---
 
