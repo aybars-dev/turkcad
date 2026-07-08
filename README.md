@@ -6,7 +6,7 @@
 # TurkCAD Web CAD Studio
 
 <p align="center">
-  <img src="assets/logo.svg" alt="TurkCAD logo" width="96">
+  <img src="assets/banner.png" alt="TurkCAD banner" width="100%">
 </p>
 
 <p align="center">
